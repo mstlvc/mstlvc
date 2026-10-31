@@ -1,0 +1,52 @@
+<svg width="460" height="195" viewBox="0 0 460 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif; fill: #38bdf8; }
+    .stat-label { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .stat-val { font: 700 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+    .rank-text { font: 800 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif; fill: #38bdf8; }
+    .rank-sub { font: 600 9px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; letter-spacing: 0.8px; }
+    .border { stroke: #30363d; stroke-width: 1; }
+    .icon { fill: #38bdf8; }
+  </style>
+  <rect width="460" height="195" rx="10" fill="#0d1117" class="border"/>
+  
+  <text x="28" y="36" class="header">My GitHub Statistics</text>
+  
+  <g transform="translate(28, 62)">
+    <!-- Contributions -->
+    <g transform="translate(0, 0)">
+      <path class="icon" d="M8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.5v3.25l2.5 1.5-.75 1.23-3.25-1.98V4.5h1.5z" transform="scale(0.9)"/>
+      <text x="22" y="11" class="stat-label">Total Contributions:</text>
+      <text x="165" y="11" class="stat-val">2,478</text>
+    </g>
+    
+    <!-- Total Repositories -->
+    <g transform="translate(0, 27)">
+      <path class="icon" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 010-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 11-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1h-8a1 1 0 00-1 1v6.708A2.486 2.486 0 014.5 9h8V1.5z" transform="scale(0.9)"/>
+      <text x="22" y="11" class="stat-label">Total Repositories:</text>
+      <text x="165" y="11" class="stat-val">35</text>
+    </g>
+    
+    <!-- Primary Stack -->
+    <g transform="translate(0, 54)">
+      <path class="icon" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z" transform="scale(0.9)"/>
+      <text x="22" y="11" class="stat-label">Primary Stack:</text>
+      <text x="165" y="11" class="stat-val">TypeScript / Full-Stack</text>
+    </g>
+    
+    <!-- Activity Status -->
+    <g transform="translate(0, 81)">
+      <path fill="#3fb950" d="M8 0a8 8 0 100 16A8 8 0 008 0zm3.78 6.28l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 111.06-1.06L6.75 9.19l3.97-3.97a.75.75 0 111.06 1.06z" transform="scale(0.9)"/>
+      <text x="22" y="11" class="stat-label">Activity Status:</text>
+      <text x="165" y="11" class="stat-val" fill="#3fb950" style="fill: #3fb950;">Very Active</text>
+    </g>
+  </g>
+  
+  <!-- Rank Circular Badge -->
+  <g transform="translate(395, 108)">
+    <circle cx="0" cy="0" r="36" fill="#161b22" stroke="#21262d" stroke-width="4"/>
+    <circle cx="0" cy="0" r="36" fill="none" stroke="#38bdf8" stroke-width="4" stroke-dasharray="226" stroke-dashoffset="23" stroke-linecap="round" transform="rotate(-90)"/>
+    <text x="0" y="3" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="14" text-anchor="middle" class="rank-sub">TOP TIER</text>
+  </g>
+</svg>
