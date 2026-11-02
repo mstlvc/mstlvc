@@ -68,7 +68,7 @@ Hey! I'm **mstlvc**, a full-stack developer and Computer Science student. I craf
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/mstlvc/Radiance">✨ Radiance</a></h3>
+      <h3 align="center"><a href="https://github.com/mstlvc/Radiance">Radiance</a></h3>
       <p align="center"><b>Digital vibrance, colour & display control for Windows</b></p>
       <p>Modern WinForms utility with NVAPI digital vibrance, custom crosshair overlays, per-monitor resolution & DDC/CI hardware brightness control, and Discord Rich Presence.</p>
       <p align="center">
@@ -79,7 +79,7 @@ Hey! I'm **mstlvc**, a full-stack developer and Computer Science student. I craf
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/mstlvc/Personal-Portfolio">🌐 Developer Portfolio</a></h3>
+      <h3 align="center"><a href="https://github.com/mstlvc/Personal-Portfolio">Developer Portfolio</a></h3>
       <p align="center"><b>Interactive personal portfolio & case studies</b></p>
       <p>Fluid developer showcase featuring custom GSAP scroll-driven interactions, WebGL fluid shaders, dynamic case study transitions, and responsive editorial typography.</p>
       <p align="center">
@@ -92,7 +92,7 @@ Hey! I'm **mstlvc**, a full-stack developer and Computer Science student. I craf
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/mstlvc/Cashboard">📊 Cashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/mstlvc/Cashboard">Cashboard</a></h3>
       <p align="center"><b>Microtask & digital rewards intelligence directory</b></p>
       <p>Transparent aggregator platform testing and analyzing cashback and microtask platforms with real-time payout tracking, geographic filters, and verified thresholds.</p>
       <p align="center">
@@ -103,7 +103,7 @@ Hey! I'm **mstlvc**, a full-stack developer and Computer Science student. I craf
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/mstlvc/3DtoASCII">👾 3DtoASCII</a></h3>
+      <h3 align="center"><a href="https://github.com/mstlvc/3DtoASCII">3DtoASCII</a></h3>
       <p align="center"><b>3D Model to ASCII Rasterizer</b></p>
       <p>Lightweight 3D model parser and ASCII rendering engine that turns complex 3D meshes into animated retro terminal ASCII visuals.</p>
       <p align="center">
